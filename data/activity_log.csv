@@ -1,0 +1,196 @@
+timestamp,username,action,detail
+2025-04-17 21:20:33,admin,logout,
+2025-04-17 21:20:39,rafly,login,success
+2025-04-17 21:21:00,rafly,change_password,password updated
+2025-04-17 21:21:03,rafly,logout,
+2025-04-17 21:21:07,admin,login,success
+2025-04-17 21:49:22,admin,login,success
+2025-04-17 22:13:24,admin,login,success
+2025-04-17 22:19:27,admin,login,success
+2025-04-17 23:13:37,admin,login,success
+2025-04-17 23:36:50,admin,login,success
+2025-04-17 23:41:47,admin,login,success
+2025-04-18 14:25:55,admin,login,success
+2025-04-18 14:25:57,admin,logout,
+2025-04-18 14:26:14,admin,login,success
+2025-04-18 14:29:57,admin,logout,
+2025-04-18 14:30:00,user,login,success
+2025-04-18 14:33:36,user,logout,
+2025-04-18 14:33:41,admin,login,success
+2025-04-18 14:38:34,admin,login,success
+2025-04-18 14:39:47,user,login,success
+2025-04-18 15:35:32,user,login,success
+2025-04-18 15:41:15,user,logout,
+2025-04-18 15:41:26,admin,login,success
+2025-04-18 15:49:20,user,login,success
+2025-04-18 17:02:38,user,login,success
+2025-04-18 17:08:09,admin,login,success
+2025-04-18 18:02:07,admin,logout,
+2025-04-18 18:34:37,admin,login,success
+2025-04-18 18:36:12,user,login,success
+2025-04-18 18:36:57,user,logout,
+2025-04-18 18:37:02,admin,login,success
+2025-04-18 18:40:25,admin,logout,
+2025-04-18 19:31:46,admin,login,success
+2025-04-18 19:32:44,admin,logout,
+2025-04-18 19:32:47,user,login,success
+2025-04-18 19:54:07,user,logout,
+2025-04-18 19:54:10,admin,login,success
+2025-04-18 20:00:58,user,login,success
+2025-04-19 07:37:52,user,login,success
+2025-04-19 07:43:52,user,logout,
+2025-04-19 07:43:57,admin,login,success
+2025-04-19 07:50:01,admin,logout,
+2025-04-19 07:50:12,user,login,success
+2025-04-19 07:50:48,user,login,success
+2025-04-19 07:52:17,user,login,success
+2025-04-19 07:53:12,user,login,success
+2025-04-19 07:58:43,user,login,success
+2025-04-19 07:58:52,user,logout,
+2025-04-19 07:58:59,user,login,success
+2025-04-19 07:59:06,user,logout,
+2025-04-19 07:59:10,admin,login,success
+2025-04-19 08:16:47,user,login,success
+2025-04-19 11:04:50,user,login,success
+2025-04-19 11:04:55,user,logout,
+2025-04-19 11:04:58,admin,login,success
+2025-04-19 11:15:59,admin,logout,
+2025-04-19 11:16:32,,login,failed
+2025-04-19 11:16:37,,login,failed
+2025-04-19 11:16:43,,login,failed
+2025-04-19 11:16:54,,login,failed
+2025-04-19 11:17:11,admin,login,success
+2025-04-19 11:17:17,admin,logout,
+2025-04-19 11:17:22,a,register,user registered
+2025-04-19 11:21:28,,login,failed
+2025-04-19 11:22:29,user,login,success
+2025-04-19 11:23:03,user,login,success
+2025-04-19 11:23:06,user,logout,
+2025-04-19 11:23:19,new,register,user registered
+2025-04-19 11:23:27,new,login,success
+2025-04-19 11:23:41,new,logout,
+2025-04-19 11:23:45,admin,login,success
+2025-04-19 11:28:17,admin,login,success
+2025-04-19 11:39:04,admin,logout,
+2025-04-19 11:39:08,user,login,success
+2025-04-19 11:44:35,user,logout,
+2025-04-19 11:44:43,test,register,user registered
+2025-04-19 11:44:58,test,login,success
+2025-04-19 11:51:29,test,logout,
+2025-04-19 11:51:36,tol,register,user registered
+2025-04-19 11:54:47,aa,register,user registered
+2025-04-19 11:55:07,aa,login,success
+2025-04-19 12:00:55,aa,logout,
+2025-04-19 12:00:59,admin,login,success
+2025-04-19 12:20:14,admin,login,success
+2025-04-19 12:31:11,user,login,success
+2025-04-19 12:31:14,user,logout,
+2025-04-19 12:31:18,admin,login,success
+2025-04-19 12:40:28,admin,login,success
+2025-04-19 12:52:34,admin,login,success
+2025-04-19 13:09:33,admin,login,success
+2025-04-19 13:10:40,admin,login,success
+2025-04-21 21:09:12,test,register,user registered
+2025-04-21 21:11:35,te,register,user registered
+2025-04-21 21:11:49,kasep,register,user registered
+2025-04-21 21:17:35,asep,register,user registered
+2025-04-21 21:17:41,asep,login,success
+2025-04-21 21:17:45,asep,logout,
+2025-04-21 21:17:58,kasi,register,user registered
+2025-04-21 21:18:02,,login,failed
+2025-04-21 21:18:04, ,login,failed
+2025-04-21 21:18:08, ,login,failed
+2025-04-21 21:19:34,ww,register,user registered
+2025-04-21 21:19:38,ww,login,success
+2025-04-21 21:19:47,ww,logout,
+2025-04-21 21:23:54,admin,login,success
+2025-04-21 21:30:14,admin,login,success
+2025-04-21 22:11:36,admin,logout,
+2025-04-21 22:11:46,wkwk,register,user registered
+2025-04-21 22:12:03,wkwkland,register,user registered
+2025-04-21 22:12:09,wkwkland,login,success
+2025-04-21 22:12:13,wkwkland,logout,
+2025-04-21 22:12:18,admin,login,success
+2025-04-21 22:16:53,admin,logout,
+2025-04-21 22:17:14,admin,login,success
+2025-04-22 20:23:34,admin,login,success
+2025-04-22 20:44:17,admin,login,success
+2025-04-22 21:14:34,admin,login,success
+2025-04-22 21:23:05,admin,login,success
+2025-04-22 21:34:49,admin,login,success
+2025-04-22 22:11:02,admin,logout,
+2025-04-22 22:11:11,anto,login,failed
+2025-04-22 22:11:31,user,login,failed
+2025-04-22 22:11:48,anto,register,user registered
+2025-04-22 22:11:56,anto,login,success
+2025-04-22 22:45:52,anto,logout,
+2025-04-22 22:46:04,admin,login,success
+2025-04-22 23:10:12,admin,login,success
+2025-04-22 23:22:32,admin,login,success
+2025-04-22 23:23:44,user,login,failed
+2025-04-22 23:23:50,admin,login,success
+2025-04-22 23:24:50,admin,login,success
+2025-04-22 23:28:10,admin,login,success
+2025-04-22 23:30:08,user,login,failed
+2025-04-22 23:30:12,admin,login,success
+2025-04-22 23:30:15,admin,logout,
+2025-04-22 23:33:47,admin,login,success
+2025-04-24 21:06:58,admin,login,success
+2025-04-24 21:15:11,dadang,register,user registered
+2025-04-24 21:15:21,dadang,login,success
+2025-04-24 21:26:24,user,login,failed
+2025-04-24 21:26:56,admin,login,success
+2025-04-24 21:27:06,admin,logout,
+2025-04-24 21:27:10,user,login,failed
+2025-04-24 21:27:18,dadang,login,success
+2025-04-24 21:34:07,dadang,logout,
+2025-04-24 21:34:13,admin,login,success
+2025-04-24 21:36:06,admin,login,success
+2025-04-24 21:45:40,kang,register,user registered
+2025-04-24 21:47:27,damian,register,user registered
+2025-04-24 21:47:33,damian,login,success
+2025-04-24 22:02:00,damian,logout,
+2025-04-24 22:09:18,user,login,failed
+2025-04-24 22:09:23,dadang,login,success
+2025-04-26 07:33:22,user,login,failed
+2025-04-26 07:33:32,Kasep,register,user registered
+2025-04-26 07:33:37,kasep,login,failed
+2025-04-26 07:33:41,Kasep,login,success
+2025-04-26 09:48:06,admin,login,success
+2025-04-26 09:57:52,admin,login,success
+2025-05-06 19:38:50,admin,login,success
+2025-05-06 19:40:49,admin,login,success
+2025-05-06 19:42:46,admin,logout,
+2025-05-06 19:42:53,user,login,failed
+2025-05-06 19:42:58,asep,login,failed
+2025-05-06 19:43:04,user,register,user registered
+2025-05-06 19:43:08,user,login,success
+2025-05-06 19:48:49,user,logout,
+2025-05-06 19:48:53,admin,login,success
+2025-05-06 20:50:29,admin,login,success
+2025-05-11 15:34:41,admin,login,success
+2025-05-11 15:35:52,admin,login,success
+2025-05-11 15:38:17,user,login,success
+2025-05-11 15:42:26,user,login,success
+2025-05-11 15:44:48,user,logout,
+2025-05-11 15:44:52,admin,login,success
+2025-05-11 15:45:53,user,login,success
+2025-05-11 15:54:52,user,logout,
+2025-05-11 15:55:11,admin,login,success
+2025-05-11 15:56:34,admin,login,success
+2025-05-11 15:59:49,admin,logout,
+2025-05-11 15:59:57,user,login,success
+2025-05-11 16:00:37,user,login,success
+2025-05-11 16:00:59,user,logout,
+2025-05-11 16:01:05,admin,login,success
+2025-05-11 16:01:48,admin,logout,
+2025-05-11 16:01:54,user,login,success
+2025-05-11 16:07:19,user,logout,
+2025-05-11 16:07:30,asep,register,user registered
+2025-05-11 16:07:37,asep,login,success
+2025-05-11 17:44:59,admin,login,success
+2025-05-11 17:49:41,admin,login,success
+2025-05-15 21:56:39,admin,login,success
+2025-05-15 22:06:00,admin,login,success
+2025-05-15 22:08:25,admin,logout,
+2025-05-15 22:08:29,admin,login,success
